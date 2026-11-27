@@ -1,6 +1,6 @@
 @isTest
 public class ContactDescriptionTriggerTest {
-
+// This is a comment for pull command
     @isTest
     static void testEmptyDescription() {
 
